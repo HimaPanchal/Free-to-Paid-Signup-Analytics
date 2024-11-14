@@ -7,6 +7,7 @@ SELECT * FROM db_course_conversions.student_info;
 SELECT * FROM db_course_conversions.student_purchases;
 
 -- Calculate the free-to-paid conversion rate
+-- First question
 SELECT 
     ROUND(COUNT(first_purchase_date) / COUNT(first_engagement_date), 2) * 100 AS conversion_rate
 FROM (
