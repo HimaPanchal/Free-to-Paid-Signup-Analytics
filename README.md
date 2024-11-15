@@ -50,6 +50,21 @@ The count of these durations, or alternatively, the number of students who have 
 Call the field av_watch_purch.
 ![image](https://github.com/user-attachments/assets/2bc80be7-ca46-4d51-a2c2-63b98b7c968f)
 
+# Insights drawn from a first glance : 
+Let’s begin by examining the results of the free-to-paid conversion rate metric. Approximately 11% of students who watch a lecture on the platform proceed to purchase a subscription (monthly, quarterly, or annual). This means that out of every 100 students engaging with the 365 platform, around 11 decide to become paying subscribers. While this figure may initially appear low, it’s worth exploring the underlying factors more closely.
+
+A notable portion of students register on the platform primarily out of curiosity. However, several reasons may explain why many do not fully engage with the program. One key factor could be the broad targeting approach, which may not specifically focus on data science enthusiasts who are eager to start their journey in the field.
+
+Additionally, as the platform caters primarily to beginners, students may feel uncertain about how to get started. Should they dedicate weeks to mastering an object-oriented programming or language like Python, a query language like SQL, or a data visualization tool such as Tableau or Power BI ? What foundational knowledge is required for each? To address this, the 365 team introduced a personalized onboarding sequence in August 2023, designed to create a customized learning path for each student. This initiative helps guide users on where to begin and how to progress.
+
+Still, some users may not be ready to commit to a data science journey immediately. For instance, college students might be preoccupied with exam preparations, or working professionals might struggle to allocate the necessary time.
+
+Lastly, it’s essential to recognize that some users may prefer alternative platforms for their first steps into data science. Regardless of the reasons, proactively engaging with customers, identifying areas for improvement, and continually refining the platform are critical to delivering a better product. This data can be proved super useful for upcoming marketing campaigns, marketing and strategy teams to increase their subscription sale.
+
+
+
+
+
 
 # DataSource
 https://learn.365datascience.com/projects/calculating-free-to-paid-conversion-rate-with-sql/
