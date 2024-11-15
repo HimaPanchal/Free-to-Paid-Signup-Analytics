@@ -44,3 +44,6 @@ This metric measures the average time it takes individuals to subscribe to the p
 The sum of all such durations.
 The count of these durations, or alternatively, the number of students who have made a purchase.
 Call the field av_watch_purch.
+
+# DataSource
+https://learn.365datascience.com/projects/calculating-free-to-paid-conversion-rate-with-sql/
