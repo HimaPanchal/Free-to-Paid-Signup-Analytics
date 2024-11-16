@@ -3,6 +3,7 @@ Calculating the Fraction of Students Who Convert to Paying Ones after Starting a
 
 # Project Overview
 The objective is to estimate the free-to-paid conversion rate among students who engage with video content on the 365 learn data science learning platform.There are 3 main tables and here is a sneak peak of the data available limit to 10 rows from MySQL Workbench : 
+
 ![image](https://github.com/user-attachments/assets/3d630b64-4ff0-432a-bfb6-545f81c1e321) <br>
 ![image](https://github.com/user-attachments/assets/d75202f9-7265-4b53-ba7c-4e94bc2536e4) <br>
 ![image](https://github.com/user-attachments/assets/c5fee064-8448-4211-8024-c4b8e6c337f3) <br>
@@ -12,10 +13,10 @@ Following are the fields in the column :
 
 **student_id** – (int) the unique identification of a student.<br>
 **date_registered** – (date) the date on which the student registered on the 365 platform. <br>
-**first_date_watched** – (date) the date of the first engagement.<br>
-**first_date_purchased** – (date) the date of first-time purchase (NULL if they have no purchases).<br>
-**date_diff_reg_watch** – (int) the difference in days between the registration date and the date of first-time engagement.<br>
-**date_diff_watch_purch** – (int) the difference in days between the date of first-time engagement and the date of first-time purchase (NULL if they have no purchases.<br>
+**first_engagement_date** – (date) the date of the first engagement.<br>
+**first_purchase_date** – (date) the date of first-time purchase (NULL if they have no purchases).<br>
+**days_between_registration_and_engagement** – (int) the difference in days between the registration date and the date of first-time engagement.<br>
+**avg_engagement_to_purchase_duration** – (int) the difference in days between the date of first-time engagement and the date of first-time purchase (NULL if they have no purchases.<br>
 The project focuses on calculating the conversion rate from the first day of engagement, registration and purchase and includes the analysis of additional key metrics to draw meaningful conclusions from the data.
 
 # Exploratory Data Analysis
