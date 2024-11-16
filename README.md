@@ -61,5 +61,17 @@ Call the field av_watch_purch.
 
 --Lastly, it’s essential to recognize that some users may prefer alternative platforms for their first steps into data science. Regardless of the reasons, proactively engaging with customers, identifying areas for improvement, and continually refining the platform are critical to delivering a better product. This data can be proved super useful for upcoming marketing campaigns, marketing and strategy teams to increase their subscription sale.
 
+# Insights Interpretation
+**Distribution Symmetry**
+The distribution is likely symmetrical when the mean, median, and mode are equal or very close, forming a bell curve. If they differ, the data might be skewed to the left—indicated by a long tail on the left side—or to the right with a long tail on the right side.
+
+The number that repeats the most in the data is 0 (Mode). Additionally, the number that sits in the middle of the dataset is also 0 (Median). Such metric values indicate the right-skewness of the data — i.e., we can find outliers to the right and long tail is at the right, towards higher values, of the data distribution. This implies that some students in the dataset have registered on the platform but started watching a video much later. Let's check the visual distribution of the same : 
+
+**Outliers**
+If the mean is much higher or lower than the median, it suggests that there are outliers. For instance, if the average time to purchase a subscription is significantly higher than the median, it may imply that a few students took an exceptionally long time to decide.
+
+**Common Patterns**
+If a specific value or set of values has a high frequency—corresponding to the mode of the dataset—it can spotlight common behaviors. For instance, a mode of zero or one day between registration and lecture viewing suggests that most students begin watching on the registration day or the day after.
+
 # DataSource
 https://learn.365datascience.com/projects/calculating-free-to-paid-conversion-rate-with-sql/
