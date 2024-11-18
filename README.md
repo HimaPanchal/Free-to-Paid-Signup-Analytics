@@ -31,7 +31,6 @@ This metric measures the proportion of engaged students who choose to benefit fr
 The number of students who watched a lecture and purchased a subscription on the same day or later.
 The total number of students who have watched a lecture.
 Convert the result to percentages and call the field conversion_rate.
-![image](https://github.com/user-attachments/assets/2f2db683-ab13-4b95-bf45-4e1a74e1d347) <br>
 
 
 **Average Duration Between Registration and First-Time Engagement:** <br>
@@ -40,8 +39,6 @@ This metric measures the average duration between the date of registration and t
 The sum of all such durations.
 The count of these durations, or alternatively, the number of students who have watched a lecture.
 Call the field av_reg_watch.
-![image](https://github.com/user-attachments/assets/1e79f711-d421-4d05-8397-7181360357bf)
-
 
 **Average Duration Between First-Time Engagement and First-Time Purchase:** <br>
 This metric measures the average time it takes individuals to subscribe to the platform after viewing a lecture. It is calculated by dividing:
