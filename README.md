@@ -1,5 +1,5 @@
 # Free-to-Paid-Signup-Analytics
-Calculating the Fraction of Students who convert to paying ones after starting a course in MySQL WorkBench
+Calculating the fraction of students who convert to paying ones after starting a course in MySQL WorkBench
 
 # Project Overview
 The objective is to estimate the free-to-paid conversion rate among students who engage with video content on the 365 learn data science learning platform.There are 3 main tables and here is a sneak peak of the data available limit to 10 rows from MySQL Workbench : 
