@@ -20,7 +20,7 @@ Following are the fields in the column :
 The project focuses on calculating the conversion rate from the first day of engagement, registration and purchase and includes the analysis of additional key metrics to draw meaningful conclusions from the data.
 
 # Exploratory Data Analysis
-# The questions I wanted to answer through my SQL queries were: <br>
+**The questions I wanted to answer through my SQL queries were:** <br>
 1. What is the free-to-paid conversion rate of students who have watched a lecture on the 365 platform? <br>
 2. What is the average duration between the registration date and when a student has watched a lecture for the first time (date of first-time engagement)? <br>
 3. What is the average duration between the date of first-time engagement and when a student purchases a subscription for the first time (date of first-time purchase)?<br>_
